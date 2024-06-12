@@ -1,0 +1,14 @@
+
+.saved-quotes-list ul {
+	list-style-type: none;
+	padding: 0;
+  }
+  
+  .saved-quotes-list li {
+	background-color: #f1f1f1;
+	padding: 10px;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	margin: 5px 0;
+  }
+  
